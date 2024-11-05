@@ -1,0 +1,49 @@
+YearsExperience,Gender,EducationLevel,Salary
+1,Male,Bachelor's,45000
+1,Female,Master's,52000
+2,Male,High School,40000
+2,Female,Bachelor's,48000
+3,Male,PhD,65000
+3,Female,Master's,56000
+4,Male,Bachelor's,60000
+4,Female,PhD,70000
+5,Male,High School,42000
+5,Female,Bachelor's,50000
+6,Male,Master's,62000
+6,Female,PhD,75000
+7,Male,Bachelor's,64000
+7,Female,High School,45000
+8,Male,PhD,80000
+8,Female,Master's,58000
+9,Male,Bachelor's,66000
+9,Female,PhD,77000
+10,Male,High School,44000
+10,Female,Bachelor's,52000
+11,Male,Master's,68000
+11,Female,PhD,80000
+12,Male,Bachelor's,69000
+12,Female,High School,47000
+13,Male,PhD,85000
+13,Female,Master's,60000
+14,Male,Bachelor's,70000
+14,Female,PhD,82000
+15,Male,High School,46000
+15,Female,Bachelor's,54000
+16,Male,Master's,70000
+16,Female,PhD,84000
+17,Male,Bachelor's,72000
+17,Female,High School,49000
+18,Male,PhD,87000
+18,Female,Master's,62000
+19,Male,Bachelor's,73000
+19,Female,PhD,86000
+20,Male,High School,48000
+20,Female,Bachelor's,56000
+21,Male,Master's,72000
+21,Female,PhD,88000
+22,Male,Bachelor's,75000
+22,Female,High School,51000
+23,Male,PhD,90000
+23,Female,Master's,64000
+24,Male,Bachelor's,76000
+24,Female,PhD,89000
